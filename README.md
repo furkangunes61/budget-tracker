@@ -396,6 +396,6 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 
 ---
 
-**Geliştirici:** Furkan Güneş
+**Geliştirici:** Furkan Güneş  
 **Tarih:** 2026  
 **Versiyon:** 1.0.0
